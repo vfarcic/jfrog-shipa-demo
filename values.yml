@@ -1,4 +1,4 @@
 myRepo:
-  gitProvider: my_github
+  gitProvider: jfrog_shipa_demo
   path: jfrog/jfrog-pipelines-simple-example
 
